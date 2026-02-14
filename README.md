@@ -43,7 +43,6 @@ Yeh error tab aati hai jab dono environment variables set hon.
 unset ANTHROPIC_AUTH_TOKEN
 ```
 ###  📸 Screenshot: <img width="454" height="122" alt="image" src="https://github.com/user-attachments/assets/851a6db2-6745-4b8d-ae9c-b69490c8e4e5" />
-<img width="454" height="122" alt="image" src="https://github.com/user-attachments/assets/851a6db2-6745-4b8d-ae9c-b69490c8e4e5" />
 
 
 **Windows Command Prompt:**
