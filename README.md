@@ -193,9 +193,8 @@ python main.py
 Command 'python' not found
 ```
 
-### 📸 Screenshot:<img width="464" height="67" alt="image" src="https://github.com/user-attachments/assets/4229ae22-07d6-49ff-8486-ed58f0ed92b2" />
+### 📸 Screenshot:
 <img width="464" height="67" alt="image" src="https://github.com/user-attachments/assets/4229ae22-07d6-49ff-8486-ed58f0ed92b2" />
-
 
 Ubuntu mein default `python` command available nahi hoti.
 
@@ -239,7 +238,7 @@ ERROR | No kiro credentials configured!
 CONFIGURATION ERROR
 ```
 
-### 📸 Screenshot:<img width="463" height="214" alt="image" src="https://github.com/user-attachments/assets/1d6ec93c-d6b3-4832-a5d4-bca40ec35474" />
+### 📸 Screenshot:
 <img width="463" height="214" alt="image" src="https://github.com/user-attachments/assets/1d6ec93c-d6b3-4832-a5d4-bca40ec35474" />
 
 
