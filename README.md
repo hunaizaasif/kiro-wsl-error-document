@@ -126,7 +126,8 @@ error: externally-managed-environment
 This environment is externally managed
 ```
 
-### 📸 Screenshot:<img width="466" height="131" alt="image" src="https://github.com/user-attachments/assets/f2f78ebb-7866-48e4-952a-01419bcb5a91" />
+### 📸 Screenshot:
+<img width="466" height="131" alt="image" src="https://github.com/user-attachments/assets/f2f78ebb-7866-48e4-952a-01419bcb5a91" />
 
 
 Yeh error Ubuntu/Debian mein Python packages install karte waqt aata hai.
